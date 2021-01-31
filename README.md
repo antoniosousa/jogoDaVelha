@@ -1,2 +1,2 @@
 # jogoDaVelha
-o tão conhecido jogo da velho em python
+o tão conhecido jogo da velha, em python! :)
